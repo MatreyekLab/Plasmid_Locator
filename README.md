@@ -9,8 +9,8 @@ Our lab does a lot of cloning and has a lot of plasmids that we use for the clon
       Go to: File --> Download --> Microsoft Excel (.xlsx) and save to your working directory.
       
 # Edit HiFis.txt
-  Add your list of plasmids, line-by-line, GXXX code only, to HiFis.txt/
-  Do NOT press "Enter" after the last plasmid/
+  Add your list of plasmids, line-by-line, GXXX code only, to HiFis.txt.
+  Do NOT press "Enter" after the last plasmid.
   Save to your working directory.
   
 # Save PlasmidLocator.py to your working directory and run
